@@ -1,6 +1,6 @@
 # data-structure
-이 강의 교안은 [양아름님](https://github.com/yangareum1818/data-structure)이
-이 강좌를 듣고 너무나 정리를 잘 해주셔서 거의 그대로 사용합니다.
+[양아름님](https://github.com/yangareum1818/data-structure)께서
+이 강좌를 듣고 너무나 정리를 잘 해주셔서 강의 교안을 거의 그대로 사용합니다.
 
 ## 시간복잡도
 
