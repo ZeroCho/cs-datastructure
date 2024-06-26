@@ -88,6 +88,7 @@ class MaxHeap { // 최대힙
             const temp = this.arr[index];
             this.arr[index] = this.arr[bigger];
             this.arr[bigger] = temp;
+            this.#heapify(biffer);
         }
     }
 }
